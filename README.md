@@ -1,5 +1,5 @@
 # SQL Sword  
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)]  
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)  
 __A tool for SQL injections./一个用于SQL注入的工具__  
 It's not complete./它还没有被完成  
 Wish you to help me to finish it./希望你能帮我完成这个项目  
